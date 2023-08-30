@@ -4,3 +4,4 @@ The scripts contained within this repo are Linux commands
 1-listit - list contents of current directory
 2-bring_me_home - change working directory to home directory
 3-listfiles - list directory files in long format
+4-listmorefiles - list more hidden files and directories
