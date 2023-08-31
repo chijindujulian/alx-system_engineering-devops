@@ -10,5 +10,6 @@ The scripts contained within this repo are Linux commands
 7-movethatfile - move a file to new folder
 8-firstdelete - will delete file 
 9-firstdirdeletion - delete my first directory
+10-back - change directory to previous one
 
 
