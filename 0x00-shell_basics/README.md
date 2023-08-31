@@ -11,5 +11,6 @@ The scripts contained within this repo are Linux commands
 8-firstdelete - will delete file 
 9-firstdirdeletion - delete my first directory
 10-back - change directory to previous one
+11-lists - list all files in multiple directories
 
 
