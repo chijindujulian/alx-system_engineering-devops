@@ -12,5 +12,7 @@ The scripts contained within this repo are Linux commands
 9-firstdirdeletion - delete my first directory
 10-back - change directory to previous one
 11-lists - list all files in multiple directories
+12-file_type - check file type
+13-symbolic_link - create link to file
 
 
