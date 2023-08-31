@@ -4,3 +4,5 @@ My readme document
 2-groups - list groups current user is part of
 3-new_owner - change ownership of file
 4-empty - Create a script to create an empty file
+5-execute - A script that executes permission to file owner
+6-multiple_permissions - Executes permission tohe owner and group owner and read to other users
