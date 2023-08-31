@@ -14,5 +14,6 @@ The scripts contained within this repo are Linux commands
 11-lists - list all files in multiple directories
 12-file_type - check file type
 13-symbolic_link - create link to file
+14-copy_html - copy all non-existent and newer files to parent directory
 
 
