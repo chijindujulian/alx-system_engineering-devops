@@ -8,7 +8,7 @@ The scripts contained within this repo are Linux commands
 5-listfilesdigitonly - list directory contents in long format, with user IDs displayed numerically an hidden files
 6-firstdirectory - create script to create directory in tmp
 7-movethatfile - move a file to new folder
-
+8-firstdelete - will delete file 
 
 
 
