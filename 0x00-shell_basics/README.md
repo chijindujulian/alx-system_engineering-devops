@@ -9,6 +9,6 @@ The scripts contained within this repo are Linux commands
 6-firstdirectory - create script to create directory in tmp
 7-movethatfile - move a file to new folder
 8-firstdelete - will delete file 
-
+9-firstdirdeletion - delete my first directory
 
 
