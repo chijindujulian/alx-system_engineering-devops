@@ -8,4 +8,4 @@ My readme document
 6-multiple_permissions - Executes permission tohe owner and group owner and read to other users
 7-everybody - Grant permissions to everybody
 8-James_Bond - Grant permissions in the form of 007
-9-John_Doe - Grant 753 permissions
+9-John_Doe - Grant 753 permission
