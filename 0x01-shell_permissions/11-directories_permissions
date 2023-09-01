@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod --preserve-root +x dir0 dir1 dir2

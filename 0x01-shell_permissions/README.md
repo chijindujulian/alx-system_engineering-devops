@@ -10,3 +10,4 @@ My readme document
 8-James_Bond - Grant permissions in the form of 007
 9-John_Doe - Grant 753 permission
 10-mirror_permissions - Grant same permissions as reference file
+11-directories_permissions - Grant subdirectories execute permissions
