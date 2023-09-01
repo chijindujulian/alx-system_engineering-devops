@@ -11,3 +11,4 @@ My readme document
 9-John_Doe - Grant 753 permission
 10-mirror_permissions - Grant same permissions as reference file
 11-directories_permissions - Grant subdirectories execute permissions
+12-directory permission - Create a directory with specific permissions
