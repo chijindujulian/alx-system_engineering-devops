@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 005
+touch hello; umask 0002
