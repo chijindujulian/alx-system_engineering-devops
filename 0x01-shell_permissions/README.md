@@ -9,3 +9,4 @@ My readme document
 7-everybody - Grant permissions to everybody
 8-James_Bond - Grant permissions in the form of 007
 9-John_Doe - Grant 753 permission
+10-mirror_permissions - Grant same permissions as reference file
