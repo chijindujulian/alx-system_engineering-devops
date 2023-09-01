@@ -1,2 +1,2 @@
 #!/bin/bash
-touch hello; umask 0002
+umask 0002
