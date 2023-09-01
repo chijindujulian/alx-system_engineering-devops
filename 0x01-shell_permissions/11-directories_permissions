@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --preserve-root +x dir0 dir1 dir2
+chmod --preserve-root 711 dir0 dir1 dir2
