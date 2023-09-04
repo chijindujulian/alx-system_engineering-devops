@@ -15,3 +15,5 @@ The shell permissions project
 13-unique - Sort list into unique names
 14-findthatword - Find a specific word
 15-countthatword - Count the number of unique words in a file
+16-whatsnext - Display lines containing the pattern and 3 lines after them
+
