@@ -20,4 +20,4 @@ The shell permissions project
 18-letteronly - Display lines starting with letters
 19-AZ - Translate lowercase to uppercase and vice-versa
 20-hiago - Delete character from file
-21-reverse - 
+21-reverse - Reverse an input 
