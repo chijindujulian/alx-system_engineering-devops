@@ -8,3 +8,4 @@ The shell permissions project
 6-third_line - Display the contents of a specific line
 7-file - Create a file with special characters in its name
 8-cwd_state - Save the current state of directory
+9-duplicate_last_line - Duplicate last line of a file
