@@ -13,3 +13,4 @@ The shell permissions project
 11-directories - Count directories
 12-newest_files - List newest files in newest order
 13-unique - Sort list into unique names
+14-findthatword - Find a specific word
