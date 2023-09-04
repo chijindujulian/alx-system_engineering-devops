@@ -12,3 +12,4 @@ The shell permissions project
 10-no_more_js - Find and delete files of a particular type
 11-directories - Count directories
 12-newest_files - List newest files in newest order
+13-unique - Sort list into unique names
