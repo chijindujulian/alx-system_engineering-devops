@@ -10,3 +10,5 @@ The shell permissions project
 8-cwd_state - Save the current state of directory
 9-duplicate_last_line - Duplicate last line of a file
 10-no_more_js - Find and delete files of a particular type
+11-directories - Count directories
+12-newest_files - List newest files in newest order
