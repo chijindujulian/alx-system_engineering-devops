@@ -18,3 +18,4 @@ The shell permissions project
 16-whatsnext - Display lines containing the pattern and 3 lines after them
 17-hidethisword - Display words not matched
 18-letteronly - Display lines starting with letters
+19-AZ - Translate lowercase to uppercase and vice-versa
