@@ -20,4 +20,6 @@ The shell permissions project
 18-letteronly - Display lines starting with letters
 19-AZ - Translate lowercase to uppercase and vice-versa
 20-hiago - Delete character from file
-21-reverse - Reverse an input 
+21-reverse - Reverse an input
+22-users_and_homes - print users and home directory
+ 
