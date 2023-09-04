@@ -14,3 +14,4 @@ The shell permissions project
 12-newest_files - List newest files in newest order
 13-unique - Sort list into unique names
 14-findthatword - Find a specific word
+15-countthatword - Count the number of unique words in a file
