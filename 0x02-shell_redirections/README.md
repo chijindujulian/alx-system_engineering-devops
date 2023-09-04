@@ -1,2 +1,10 @@
 The shell permissions project
 0-hello_world - Print Hello World to Screen
+1-confused_smiley - print smiley to screen
+2-hellofile - Display the content of /etc/passwd
+3-twofiles - Display the content of 2 files
+4-lastlines - Display the last 10 lines of a file
+5-firstlines - Display the first lines of a file
+6-third_line - Display the contents of a specific line
+7-file - Create a file with special characters in its name
+8-cwd_state - Save the current state of directory
