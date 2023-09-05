@@ -2,3 +2,4 @@
 
 0-alias - set an alias
 1-hello_you - Say hello
+2-path - Add path to environment
