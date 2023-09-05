@@ -4,3 +4,4 @@
 1-hello_you - Say hello
 2-path - Add path to environment
 3
+3-paths - Count number of directories in path
