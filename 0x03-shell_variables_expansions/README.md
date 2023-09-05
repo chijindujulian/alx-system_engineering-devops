@@ -12,3 +12,4 @@
 9-divide_and_rule - Divide 2 variables
 10-love_exponent_breath
 11-binary_to_decimal - Convert binary to decimal
+11-binary_to_decimal - Convert binary to base 10
