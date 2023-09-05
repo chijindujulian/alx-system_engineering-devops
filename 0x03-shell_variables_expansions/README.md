@@ -5,3 +5,4 @@
 2-path - Add path to environment
 3
 3-paths - Count number of directories in path
+4-global_variables - Print global variables
