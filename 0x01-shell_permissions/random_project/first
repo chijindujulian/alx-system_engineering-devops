@@ -1,0 +1,9 @@
+#!/bin/bash
+# this is a comment chmod 110-000-000 name of the file
+# you can convert to the rwx format to have  a picture of the task and to binary format to solve the task
+#converting to rwx format, 110 translates to the read(1) as on, the write(1) as on, the execute as off(0) for the owner
+# converting 110 to binary format, you can read more on the permssions or in production projects use an online checker, 110 translates to 6 in binary
+# so we have 110 = 6, 000 translates to 0,
+# the permissions to be accorded to the first life = 600
+# the permissions to be accorded to the second file = 006
+# the permisions to be accorded sec
