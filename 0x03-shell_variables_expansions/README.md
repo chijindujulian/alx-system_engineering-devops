@@ -6,3 +6,4 @@
 3
 3-paths - Count number of directories in path
 4-global_variables - Print global variables
+5-local_variables - Print all local variables and functions
