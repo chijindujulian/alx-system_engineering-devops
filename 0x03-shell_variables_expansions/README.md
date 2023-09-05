@@ -11,3 +11,4 @@
 8-true_knowledge - Add number to variable and print result
 9-divide_and_rule - Divide 2 variables
 10-love_exponent_breath
+11-binary_to_decimal - Convert binary to decimal
