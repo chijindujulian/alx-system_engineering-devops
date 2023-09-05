@@ -1,3 +1,3 @@
 0x03. Shell, init files, variables and expansions
 
-0-alias - Set an alias
+0-alias - set an alias
