@@ -16,3 +16,4 @@
 12-combinations - Print all possible combinations
 13-print_float - Convert integer to floats
 100-decimal_to_hexadecimal - Convert variable to hexadecimal
+101-rot_13 - Apply rot13 encryption
